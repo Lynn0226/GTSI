@@ -19,7 +19,12 @@ conda activate GTSI
 pip install -r requirements.txt
 ```
 ### Download data
-Download the dataset from the provided link and place the files in the following directory:```./data/PROP/```
+Download the dataset from the following link and the extraction code is `zx7u`:  
+[https://pan.baidu.com/s/1fW4_hezplQIeEPogUUCGuA](https://pan.baidu.com/s/1fW4_hezplQIeEPogUUCGuA)  
+
+After downloading, please place all the files in the folder to the directory: `./data/PROP/`
+
+
 ### Train the model
 Basic training parameters are specified in the ```./configs/``` directory. Start training with the following command:
 ```bash
